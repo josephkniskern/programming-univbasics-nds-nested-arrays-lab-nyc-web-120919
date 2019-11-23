@@ -19,7 +19,7 @@ ENFIELD_TENNIS_ACADEMY = [
 def assembled_matrix
   places = [
     ENNET_HOUSE.sort,
-    ENFIELD_TENNIS_ACADEMY.sort
+    ENFIELD_TENNIS_ACADEMY
     ]
     
     
