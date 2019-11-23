@@ -31,7 +31,7 @@ def assembled_matrix
   "Mario Incandenza",
   "Michael Pemulis"]
     ]
-    
+    return places
     
   # Build an array that contains (or, "nests") the residents of The Ennet House
   # and the Enfield Tennis Academy as provided by the constants
