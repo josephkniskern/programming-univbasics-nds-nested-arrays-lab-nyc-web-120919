@@ -22,7 +22,7 @@ def assembled_matrix
     ENFIELD_TENNIS_ACADEMY
     ]
     
-    return places
+    
   # Build an array that contains (or, "nests") the residents of The Ennet House
   # and the Enfield Tennis Academy as provided by the constants
 end
