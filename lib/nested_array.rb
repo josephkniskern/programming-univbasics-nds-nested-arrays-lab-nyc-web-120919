@@ -29,10 +29,7 @@ def array_literal_matrix
     [ "Gerhard Schtitt", "Hal Incandenza", "Lyle", "Mario Incandenza", "Michael Pemulis"]
     ]
     
-    return residents
-  # Using Array literal syntax only, build a nested array that uses the data in
-  # side the ENNET_HOUSE and ENFIELD_TENNIS_ACADEMY Arrays but sorts
-  # alphabetically by the first character.
+  return residents
 end
 
 def matrix_lookup(matrix, row, column)
