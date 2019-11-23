@@ -24,7 +24,8 @@ def assembled_matrix
   "Pat M.",
   "Kate Gompert",
   "Bruce Green"],
-    [  "Hal Incandenza",
+    [  
+  "Hal Incandenza",
   "Lyle",
   "Gerhard Schtitt",
   "Mario Incandenza",
