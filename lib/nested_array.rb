@@ -29,7 +29,7 @@ end
 
 def array_literal_matrix
   residents = [
-    ["Don Gately", "Joelle van Dyne", "Pat M.", "Kate Gompert","Bruce Green"],
+    ["Bruce Green", "Don Gately", "Joelle van Dyne", "Kate Gompert", "Pat M."],
     ["Hal Incandenza", "Lyle", "Gerhard Schtitt", "Mario Incandenza", "Michael Pemulis"]
     ]
     
